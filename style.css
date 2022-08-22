@@ -1,0 +1,14 @@
+#menubar ul{
+display: flex;
+}
+#menubar ul li{
+    list-style: none;
+    padding-right: 20px;
+}
+#menubar ul ul {
+    display: block;
+}
+#menubar ul li a{
+    text-decoration: none;
+
+}
